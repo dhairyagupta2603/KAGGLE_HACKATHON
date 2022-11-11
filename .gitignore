@@ -1,0 +1,8 @@
+/train/
+/validation/
+/src/layoutlmv3FineTuning/
+/src/partial_csv/
+src/*.csv
+*.csv
+datathonindoml-2022.zip
+
